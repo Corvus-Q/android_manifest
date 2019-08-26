@@ -726,9 +726,10 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <!-- Remove unused AOSP repos -->
-  <include name="remove.xml" />
+  <include name="rex/remove.xml" />
 
-  <!-- Add all tracked DU/AOSP repos -->
-  <include name="p9x_default.xml" />
-
+  <!-- Add all tracked DU-REX repos -->
+  <include name="rex/p9x_default.xml" />
+  <include name="rex/du-rex.xml" />
+  <include name="rex/los.xml" />
 </manifest>
