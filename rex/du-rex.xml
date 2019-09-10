@@ -33,6 +33,8 @@
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="rex" revision="p9x-caf" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="rex" revision="p9x-caf" />
   <project path="external/proguard" name="android_external_proguard" remote="rex" revision="p9x-caf" />
+  <project path="external/libcups" name="andrdoi_external_libcups" remote="rex" revision="p9x-caf" />
+  <project path="external/libhevc" name="android_external_libhevc" remote="rex" revision="p9x-caf" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/clang/host/linux-x86" name="android_prebuilts_clang_host_linux-x86" clone-depth="1" remote="rex" revision="p9x-caf" />
@@ -68,6 +70,7 @@
   <project path="system/extras" name="android_system_extras" remote="rex" revision="p9x" />
   <project path="system/bt" name="android_system_bt" remote="rex" revision="p9x-caf" />
   <project path="system/netd" name="android_system_netd" remote="rex" revision="p9x-caf" />
+  <project path="system/nfc" name="android_system_nfc" remote="rex" revision="p9x-caf" />
 
   <!-- Packages -->
   <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="rex" revision="p9x" />

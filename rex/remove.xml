@@ -96,6 +96,8 @@
   <remove-project name="platform/external/icu" />
   <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/libtextclassifier" />
+  <remove-project name="platform/external/libcups" />
+  <remove-project name="platform/external/libhevc" />
 
   <!-- Framework -->
   <remove-project name="platform/frameworks/av" />
@@ -197,6 +199,7 @@
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/netd" />
+  <remove-project name="platform/system/nfc" />
 
   <!-- Toolchains -->
   <remove-project name="platform/prebuilts/build-tools" />
