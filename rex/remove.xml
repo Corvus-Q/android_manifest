@@ -91,6 +91,11 @@
   <remove-project name="platform/external/python/setuptools" />
   <remove-project name="platform/external/python/six" />
   <remove-project name="platform/external/python/uritemplates" />
+  <remove-project name="platform/external/elfutils" />
+  <remove-project name="platform/external/f2fs-tools" />
+  <remove-project name="platform/external/icu" />
+  <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/libtextclassifier" />
 
   <!-- Framework -->
   <remove-project name="platform/frameworks/av" />
