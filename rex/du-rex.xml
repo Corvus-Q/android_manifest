@@ -61,6 +61,7 @@
   <project path="hardware/qcom/vr" name="android_hardware_qcom_vr" remote="rex" revision="p9x-caf" />
   <project path="hardware/qcom/fm" name="android_hardware_qcom_fm" remote="rex" revision="p9x-caf" />
   <project path="hardware/qcom/display-caf/headers" name="android_hardware_qcom_display-caf_headers" remote="rex" revision="p9x-caf" />
+  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="rex" revision="p9x-caf" />
 
   <!-- System -->
   <project path="system/core" name="android_system_core" remote="rex" revision="p9x-caf" />
