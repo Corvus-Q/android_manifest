@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="gh"
+        fetch="https://github.com/" />
+		
+<remote name="rex"
+        fetch="https://github.com/du-rex/" />
+
+  <project path="art" name="android_art" remote="rex" revision="10" />
+  <project path="bionic" name="android_bionic" remote="rex" revision="10" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="rex" revision="10" />
+
+  <!-- Build -->
+  <project path="build/make" name="android_build" remote="rex" revision="10">
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+
+  <project path="build/kati" name="android_build_kati" remote="rex" revision="10"/>
+  <project path="build/soong" name="android_build_soong" remote="rex" revision="10">
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <!-- External -->
+  <project path="external/tinycompress" name="android_external_tinycompress" remote="rex" revision="10" />
+  <project path="external/proguard" name="android_external_proguard" remote="rex" revision="10" />
+  <project path="external/selinux" name="android_external_selinux" remote="rex" revision="10" />
+  <project path="external/skia" name="android_external_skia" remote="rex" revision="10" />
+
+  <!-- Frameworks -->
+  <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="rex" revision="10" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="rex" revision="10" />
+  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="rex" revision="10" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="rex" revision="10" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="rex" revision="10" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="rex" revision="10" />
+  <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="rex" revision="10" />
+
+  <!-- Device -->
+  <project path="device/du/sepolicy" name="device_du_sepolicy" remote="rex" revision="10" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="rex" revision="10-legacy" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="rex" revision="10" />
+
+  <!-- Hardware -->
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="rex" revision="10" />
+  <project path="hardware/du/interfaces" name="android_hardware_du_interfaces" remote="rex" revision="10" />
+  <project path="hardware/qcom-caf/power" name="android_hardware_qcom_power" remote="rex" revision="10" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="rex" revision="10" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="rex" revision="10" />
+  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="rex" revision="10" />
+  <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="rex" revision="10" />
+
+  <!-- System -->
+  <project path="system/core" name="android_system_core" remote="rex" revision="10" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="rex" revision="10" />
+  <project path="system/vold" name="android_system_vold" remote="rex" revision="10" />
+  <project path="system/update_engine" name="android_system_update_engine" remote="rex" revision="10" />
+  <project path="system/extras" name="android_system_extras" remote="rex" revision="10" />
+  <project path="system/bt" name="android_system_bt" remote="rex" revision="10" />
+  <project path="system/netd" name="android_system_netd" remote="rex" revision="10" />
+  <project path="system/nfc" name="android_system_nfc" remote="rex" revision="10" />
+  <project path="system/tools/hidl" name="android_system_tools_hidl" remote="rex" revision="10" />
+
+  <!-- Packages -->
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="rex" revision="10" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="rex" revision="10" />
+  <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" remote="rex" revision="10" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="rex" revision="10" />
+  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="rex" revision="10" />
+  <project path="packages/apps/DU-Tweaks" name="android_packages_apps_DU-Tweaks" remote="rex" revision="10" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="rex" revision="10" />
+  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="rex" revision="10" />
+  <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="rex" revision="10" />
+  <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="rex" revision="10" />
+  <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="rex" revision="10" />
+  <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="rex" revision="10" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="rex" revision="10" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="rex" revision="10" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="rex" revision="10" />
+  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="rex" revision="10" />
+  <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="rex" revision="10" />
+
+  <!-- Vendor -->
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="rex" revision="10" />
+  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" revision="10" />
+  <project path="vendor/themes" name="android_vendor_themes" remote="rex" revision="10" />
+  <project path="vendor/du" name="android_vendor_du" remote="rex" revision="10" >
+    <linkfile src="scripts/merge-aosp.sh" dest="merge-aosp.sh" />
+
+  </project>
+</manifest>
