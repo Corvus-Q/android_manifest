@@ -97,6 +97,11 @@
   <remove-project name="platform/external/libtextclassifier" />
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libhevc" />
+  <remove-project name="platform/external/chromium-libpac" />
+  <remove-project name="platform/external/libcxx" />
+  <remove-project name="platform/external/libjpeg-turbo" />
+  <remove-project name="platform/external/sqlite" />
+  <remove-project name="platform/external/v8" />
 
   <!-- Framework -->
   <remove-project name="platform/frameworks/av" />
@@ -179,9 +184,12 @@
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
   <remove-project name="platform/packages/apps/UnifiedEmail" />
+  <remove-project name="platform/packages/apps/ManagedProvisioning" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
   <remove-project name="platform/packages/providers/MediaProvider" />
+  <remove-project name="platform/packages/providers/TelephonyProvider" />
+  <remove-project name="platform/packages/providers/TvProvider" />
   <remove-project name="platform/packages/screensavers/Basic" />
   <remove-project name="platform/packages/screensavers/PhotoTable" />
   <remove-project name="platform/packages/screensavers/WebView" />

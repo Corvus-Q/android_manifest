@@ -7,14 +7,19 @@
   <project path="art" name="android_art" remote="los" />
 
   <!-- External repos -->
+  <project path="external/chromium-libpac" name="android_external_chromium-libpac" remote="los" />
   <project path="external/elfutils" name="android_external_elfutils" remote="los" />
   <project path="external/exfat" name="android_external_exfat" remote="los" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="los" />
   <project path="external/icu" name="android_external_icu" remote="los" />
+  <project path="external/libcxx" name="android_external_libcxx" remote="los" />
+  <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="los" />
   <project path="external/libpng" name="android_external_libpng" remote="los" />
   <project path="external/libtextclassifier" name="android_external_libtextclassifier" remote="los" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" />
   <project path="external/skia" name="android_external_skia" remote="los" />
+  <project path="external/sqlite" name="android_external_sqlite" remote="los" />
+  <project path="external/v8" name="android_external_v8" remote="los" />
 
   <!-- Hardware -->
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="los" />
@@ -61,6 +66,11 @@
   </project>
   <project path="hardware/qcom/thermal" name="android_hardware_qcom_thermal" remote="los" />
   <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" remote="los" revision="lineage-16.0-caf" />
+
+  <!-- Packages -->
+  <project path="packages/apps/ManagedProvisioning" name="android_packages_apps_ManagedProvisioning" remote="los" />
+  <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="los" />
+  <project path="packages/providers/TvProvider" name="android_packages_providers_TvProvider" remote="los" />
 
   <!-- System -->
   <project path="system/timezone" name="android_system_timezone" remote="los" />
