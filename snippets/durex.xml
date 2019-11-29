@@ -16,6 +16,7 @@
   <project path="bootable/recovery" name="android_bootable_recovery" remote="rex" revision="10" />
   <project path="platform_testing" name="android_platform_testing" remote="rex" revision="10" />
   <project path="development" name="android_development" remote="rex" revision="10" />
+  <project path="libcore" name="android_libcore" remote="rex" revision="10" />
 
   <!-- Build -->
   <project path="build/make" name="android_build" remote="rex" revision="10">
@@ -101,6 +102,7 @@
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="rex" revision="10" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="rex" revision="10" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="rex" revision="10" />
+  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="rex" revision="10" />
 
   <!-- Vendor -->
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="rex" revision="10" />
