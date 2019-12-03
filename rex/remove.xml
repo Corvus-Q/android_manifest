@@ -93,6 +93,7 @@
   <remove-project name="platform/external/elfutils" />
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/icu" />
+  <remove-project name="platform/external/ImageMagick" />
   <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/libtextclassifier" />
   <remove-project name="platform/external/libcups" />
@@ -193,6 +194,7 @@
   <remove-project name="platform/packages/screensavers/Basic" />
   <remove-project name="platform/packages/screensavers/PhotoTable" />
   <remove-project name="platform/packages/screensavers/WebView" />
+  <remove-project name="platform/packages/services/BuiltInPrintService" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
@@ -207,6 +209,7 @@
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/nfc" />
+  <remove-project name="platform/system/security" />
 
   <!-- Toolchains -->
   <remove-project name="platform/prebuilts/build-tools" />
