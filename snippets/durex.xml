@@ -3,6 +3,10 @@
 
 <remote name="gh"
         fetch="https://github.com/" />
+
+  <!-- Gitlab remote -->
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
 		
 <remote name="rex"
         fetch="https://github.com/du-rex/" />
@@ -74,6 +78,7 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="rex" revision="10" />
+  <project path="prebuilts/clang/host/linux-x86" name="DirtyUnicorns/android_prebuilts_clang_host_linux-x86" remote="gitlab" revision="q10x" clone-depth="1" />
 
   <!-- Packages -->
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="rex" revision="10" />
