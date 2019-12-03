@@ -105,7 +105,6 @@
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="rex" revision="10" />
 
   <!-- Vendor -->
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="rex" revision="10" />
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="rex" revision="10" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="rex" revision="10"/>
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" revision="10" />

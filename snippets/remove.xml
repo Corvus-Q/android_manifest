@@ -25,6 +25,10 @@
   <remove-project name="device/google/bonito" />
   <remove-project name="device/google/bonito-kernel" />
   <remove-project name="device/google/bonito-sepolicy" />
+  <remove-project name="device/google/contexthub" />
+  <remove-project name="device/google/coral" />
+  <remove-project name="device/google/coral-kernel" />
+  <remove-project name="device/google/coral-sepolicy" />
   <remove-project name="device/google/crosshatch" />
   <remove-project name="device/google/crosshatch-kernel" />
   <remove-project name="device/google/crosshatch-sepolicy" />
@@ -158,6 +162,14 @@
   <remove-project name="platform/hardware/qcom/display" />
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/libhardware_legacy" />
+  <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
+  <remove-project name="platform/hardware/qcom/gps" />
+  <remove-project name="platform/hardware/qcom/keymaster" />
+  <remove-project name="platform/hardware/qcom/media" />
+  <remove-project name="platform/hardware/qcom/wlan" />
+  <remove-project name="platform/hardware/qcom/bootctrl" />
+  <remove-project name="platform/hardware/qcom/bt" />
+  <remove-project name="platform/hardware/qcom/camera" />
 
   <!-- System -->
   <remove-project name="platform/system/netd" />
