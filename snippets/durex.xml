@@ -81,6 +81,7 @@
   <!-- Prebuilts -->
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="rex" revision="10" />
   <project path="prebuilts/clang/host/linux-x86" name="DirtyUnicorns/android_prebuilts_clang_host_linux-x86" remote="gitlab" revision="q10x" clone-depth="1" />
+  <project path="prebuilts/r8" name="android_prebuilts_r8" remote="rex" revision="10" clone-depth="1" />
 
   <!-- Packages -->
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="rex" revision="10" />
