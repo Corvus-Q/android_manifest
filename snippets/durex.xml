@@ -77,6 +77,7 @@
   <project path="system/netd" name="android_system_netd" remote="rex" revision="10" />
   <project path="system/nfc" name="android_system_nfc" remote="rex" revision="10" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="rex" revision="10" />
+  <project path="system/keymaster" name="android_system_keymaster" remote="rex" revision="10" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="rex" revision="10" />

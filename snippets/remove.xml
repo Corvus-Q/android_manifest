@@ -181,6 +181,7 @@
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/tools/hidl" />
+  <remove-project name="platform/system/keymaster" />
 </manifest>
 
 
