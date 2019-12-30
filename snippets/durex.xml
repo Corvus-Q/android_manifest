@@ -37,7 +37,6 @@
   </project>
 
   <!-- External -->
-  <project path="external/kernel-headers" name="android_external_kernel-headers" remote="rex" revision="10" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="rex" revision="10" />
   <project path="external/proguard" name="android_external_proguard" remote="rex" revision="10" />
   <project path="external/selinux" name="android_external_selinux" remote="rex" revision="10" />

@@ -81,7 +81,6 @@
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/sqlite" />
-  <remove-project name="platform/external/kernel-headers" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
