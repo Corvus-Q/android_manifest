@@ -110,7 +110,6 @@
 
   <!-- Vendor -->
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="rex" revision="10" />
-  <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="rex" revision="10"/>
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" revision="10" />
   <project path="vendor/themes" name="android_vendor_themes" remote="rex" revision="10" />
   <project path="vendor/du" name="android_vendor_du" remote="rex" revision="10"/>
