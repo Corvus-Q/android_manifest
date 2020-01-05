@@ -149,6 +149,7 @@
   <remove-project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <remove-project name="platform/prebuilts/r8" />
+  <remove-project name="platform/prebuilts/build-tools" />
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
