@@ -38,6 +38,7 @@
   </project>
 
   <!-- External -->
+  <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="rex" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="rex" />
   <project path="external/proguard" name="android_external_proguard" remote="rex" />
   <project path="external/selinux" name="android_external_selinux" remote="rex" />
