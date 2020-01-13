@@ -100,6 +100,7 @@
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="rex" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="rex" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="rex" />
+  <project path="packages/apps/Traceur" name="DirtyUnicorns/android_packages_apps_Traceur" remote="gh" revision="q10x" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="rex" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="rex" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="rex" />
