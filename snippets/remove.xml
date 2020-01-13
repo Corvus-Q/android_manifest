@@ -66,7 +66,6 @@
   <remove-project name="platform/build/blueprint" />
   <remove-project name="platform/platform_testing" />
   <remove-project name="platform/development" />
-  <remove-project name="platform/libcore" />
 
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
