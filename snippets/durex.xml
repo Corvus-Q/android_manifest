@@ -115,5 +115,5 @@
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" />
   <project path="vendor/themes" name="android_vendor_themes" remote="rex" />
   <project path="vendor/du" name="android_vendor_du" remote="rex" />
-  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="rex" />
+
 </manifest>
