@@ -183,6 +183,8 @@
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/tools/hidl" />
   <remove-project name="platform/system/keymaster" />
+  <remove-project name="platform/system/hardware/interfaces" />
+
 </manifest>
 
 
