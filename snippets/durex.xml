@@ -81,7 +81,6 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="rex" />
-  <project path="prebuilts/clang/host/linux-x86" name="DirtyUnicorns/android_prebuilts_clang_host_linux-x86" remote="gitlab" revision="q10x" clone-depth="1" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="rex"  clone-depth="1" />
   <project path="prebuilts/build-tools" name="DirtyUnicorns/android_prebuilts_build-tools" remote="gh" revision="q10x" />
 
