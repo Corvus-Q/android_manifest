@@ -13,4 +13,4 @@ To Build, use following commands:
     
     . build/envsetup.sh
     lunch du_device-userdebug
-    make durex
+    make corvus

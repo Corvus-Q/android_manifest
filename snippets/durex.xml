@@ -16,7 +16,6 @@
   <project path="bionic" name="android_bionic" remote="rex" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="rex" />
   <project path="platform_testing" name="android_platform_testing" remote="rex" />
-  <project path="development" name="android_development" remote="rex"/>
 
   <!-- Build -->
   <project path="build/make" name="android_build" remote="rex" >
@@ -37,7 +36,6 @@
   </project>
 
   <!-- External -->
-  <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="rex" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="rex" />
   <project path="external/proguard" name="android_external_proguard" remote="rex" />
   <project path="external/selinux" name="android_external_selinux" remote="rex" />
@@ -71,7 +69,6 @@
   <project path="system/core" name="android_system_core" remote="rex" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="rex" />
   <project path="system/vold" name="android_system_vold" remote="rex" />
-  <project path="system/update_engine" name="android_system_update_engine" remote="rex" />
   <project path="system/extras" name="android_system_extras" remote="rex" />
   <project path="system/bt" name="android_system_bt" remote="rex" />
   <project path="system/netd" name="android_system_netd" remote="rex" />
@@ -85,7 +82,6 @@
   <project path="prebuilts/build-tools" name="DirtyUnicorns/android_prebuilts_build-tools" remote="gh" revision="q10x" />
 
   <!-- Packages -->
-  <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="rex" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="rex" />
   <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" remote="rex" />
   <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="rex" />
