@@ -62,14 +62,12 @@
   <remove-project name="platform/art" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
-  <remove-project name="platform/build/kati" />
   <remove-project name="platform/build/blueprint" />
   <remove-project name="platform/platform_testing" />
   <remove-project name="platform/development" />
 
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
-  <remove-project name="platform/external/proguard" />
   <remove-project name="platform/external/python/asn1crypto" />
   <remove-project name="platform/external/python/cffi" />
   <remove-project name="platform/external/python/cryptography" />
@@ -88,14 +86,12 @@
   <remove-project name="platform/frameworks/opt/net/wifi" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/frameworks/opt/net/ims" />
-  <remove-project name="platform/frameworks/compile/mclinker" />
 
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Browser2" />
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Car/externallibs" />
-  <remove-project name="platform/packages/apps/CarrierConfig" />
   <remove-project name="platform/packages/apps/CertInstaller" />
   <remove-project name="platform/packages/apps/Camera2" />
   <remove-project name="platform/packages/apps/Contacts" />
@@ -118,7 +114,6 @@
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/apps/SoundRecorder" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
-  <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/Terminal" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
@@ -152,7 +147,6 @@
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
-  <remove-project name="platform/hardware/nxp/nfc" />
   <remove-project name="platform/hardware/invensense" />
   <remove-project name="platform/hardware/ti/am57x" />
   <remove-project name="platform/hardware/qcom/power" />
@@ -172,14 +166,12 @@
 
   <!-- System -->
   <remove-project name="platform/system/netd" />
-  <remove-project name="platform/system/nfc" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/bt" />
-  <remove-project name="platform/system/tools/hidl" />
   <remove-project name="platform/system/keymaster" />
   <remove-project name="platform/system/hardware/interfaces" />
 
