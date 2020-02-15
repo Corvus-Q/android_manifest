@@ -65,6 +65,7 @@
   <remove-project name="platform/build/blueprint" />
   <remove-project name="platform/platform_testing" />
   <remove-project name="platform/development" />
+  <remove-project name="platform/libcore" />
 
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
@@ -78,6 +79,10 @@
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/sqlite" />
+  <remove-project name="platform/external/zlib" />
+  <remove-project name="platform/external/libjpeg-turbo" />
+  <remove-project name="platform/external/arm-optimized-routines" />
+  <remove-project name="platform/external/jemalloc_new" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
@@ -144,6 +149,8 @@
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <remove-project name="platform/prebuilts/r8" />
   <remove-project name="platform/prebuilts/build-tools" />
+  <remove-project name="platform/prebuilts/abi-dumps/ndk" />
+  <remove-project name="platform/prebuilts/abi-dumps/vndk" />
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />

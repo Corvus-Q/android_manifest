@@ -39,6 +39,10 @@
   <project path="external/selinux" name="android_external_selinux" remote="rex" />
   <project path="external/skia" name="android_external_skia" remote="rex" />
   <project path="external/sqlite" name="android_external_sqlite" remote="rex" />
+  <project path="external/jemalloc_new" name="android_external_jemalloc-new" remote="rex" />
+  <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="rex" />
+  <project path="external/zlib" name="android_external_zlib" remote="rex" />
+  <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="rex" />
 
   <!-- Frameworks -->
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="rex" />
