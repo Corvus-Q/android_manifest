@@ -83,6 +83,11 @@
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/arm-optimized-routines" />
   <remove-project name="platform/external/jemalloc_new" />
+  <remove-project name="platform/external/google-fonts/arbutus-slab" />
+  <remove-project name="platform/external/google-fonts/arvo" />
+  <remove-project name="platform/external/google-fonts/lato" />
+  <remove-project name="platform/external/google-fonts/rubik" />
+  <remove-project name="platform/external/google-fonts/zilla-slab" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
