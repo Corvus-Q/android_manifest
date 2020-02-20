@@ -116,6 +116,7 @@
   <remove-project name="platform/packages/apps/LegacyCamera" />
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/Music" />
+  <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/Protips" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
@@ -163,6 +164,7 @@
   <remove-project name="platform/hardware/ti/am57x" />
   <remove-project name="platform/hardware/qcom/power" />
   <remove-project name="platform/hardware/ril" />
+  <remove-project name="platform/hardware/nxp/nfc" />
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/display" />
   <remove-project name="platform/hardware/libhardware" />
