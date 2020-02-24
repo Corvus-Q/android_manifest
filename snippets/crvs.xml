@@ -64,7 +64,6 @@
   <project path="hardware/ril" name="android_hardware_ril" remote="rex" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="rex" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="rex" />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="rex" />
 
   <!-- System -->
   <project path="system/core" name="android_system_core" remote="rex" />
