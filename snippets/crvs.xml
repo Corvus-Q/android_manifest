@@ -15,6 +15,7 @@
   <project path="art" name="android_art" remote="rex" />
   <project path="bionic" name="android_bionic" remote="rex" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="rex" />
+  <project path="development" name="android_development" remote="rex" />
   <project path="platform_testing" name="android_platform_testing" remote="rex" />
 
   <!-- Build -->
