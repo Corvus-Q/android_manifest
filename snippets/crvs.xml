@@ -130,6 +130,7 @@
   <project path="packages/apps/Recorder" name="android_packages_apps_Recorder" remote="rex" />
   <project path="packages/apps/Snap" name="android_packages_apps_Snap" remote="rex" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="rex" />
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="rex" />
 
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" />
