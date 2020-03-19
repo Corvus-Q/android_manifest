@@ -44,6 +44,7 @@
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="rex" />
   <project path="external/zlib" name="android_external_zlib" remote="rex" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="rex" />
+  <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="rex" />
 
   <!-- Frameworks -->
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="rex" />
