@@ -9,7 +9,7 @@
            fetch="https://gitlab.com/" />
 		
 <remote name="rex"
-        fetch="https://github.com/Corvus-OS/"
+        fetch="https://github.com/Corvus-ROM/"
         revision="refs/heads/10" />
 
   <project path="art" name="android_art" remote="rex" />
@@ -136,6 +136,7 @@
 
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="rex" />
+  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="rex" />
   <project path="vendor/themes" name="android_vendor_themes" remote="rex" />
   <project path="vendor/du" name="android_vendor_du" remote="rex" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="rex" />
