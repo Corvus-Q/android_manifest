@@ -1,0 +1,249 @@
+[CENTER][IMG]https://i.postimg.cc/J0Y49HCP/photo-2020-03-21-01-56-21.jpg[/IMG][/CENTER]
+
+
+[CENTER][CODE]
+/*
+ * Your warranty is... still valid?
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */
+[/CODE][/CENTER]
+[CENTER][IMG]https://i.postimg.cc/qqZn7C5R/about.jpg[/IMG][/CENTER]
+[CENTER][B]Corvus OS is another retarded ROM with many retarded Customization. First, it's inspired by Dirty Unicorns (thanks to Alex Cruz), but then we picked many other features too. Our objectives are a stable and feature ROM that can be enjoyed by many devices. We won't say that Corvus is better ROM than others, but we always try to give you the best.[/B][/CENTER]
+
+
+[CENTER][IMG]https://i.postimg.cc/QMgvyvSX/features.jpg[/IMG][/CENTER]
+[CENTER][HIDE][CODE][B]Themes:[/B]
+[LIST]
+[*]Accent picker 
+[*]Theme backup
+[*]Theme styles
+[/LIST]
+[B]Notifications:[/B][LIST]
+[*]Heads up options
+[*]Charging animation
+[*]Edge Lighting
+[*]Blink Flashlight on Call
+[/LIST]
+
+[B]Miscellaneous:[/B]
+[LIST]
+[*]Rounded Corners
+[*]System Animations 
+[*]Scrolling Cache
+[*]Expanded screenshot
+[*]Gaming Mode
+[*]Three Finger Swipe 
+[*]DT2 Sleep
+[*]Signature Spoofing
+[*]Sensor block per app package
+[*]Screen off animation
+[*]Dashboard conditions
+[*]Dashboard suggestions
+[*]Disable device identifier restrictions
+[/LIST]
+
+[B]Fingerprint Prefs:[/B][LIST]
+[*]Fingerprint error vibration
+[*]Fingerprint authentication Vibration
+[/LIST]
+
+[B]Lockscreen:[/B]
+[LIST]
+[*]Show status bar on lockscreen 
+[*]Disable QS when locked
+[*]Lockscreen charging info 
+[*]Lockscreen album art filter
+[*]Media artwork blur level
+[*]Shortcuts
+[*]Charging animation
+[*]Lockscreen style
+[*]Fod Icon picker
+[*]FOD recognising animations
+[*]FOD pressed state
+[*]Hide lock icon
+[*]DT2sleep 
+[*]Lockscreen visualizer 
+[*]Media Artwork
+[/LIST]
+
+[B]Status Bar[/B]
+[LIST]
+[*]Battery Customization
+[*]Charging LED
+[*]Battery Estimates Toggle
+[*]Battery Icon Style
+[*]Battery Percentage
+[*]Aggressive Battery
+[*]Battery Bar Customization
+[/LIST]
+
+[B]Carrier Label[/B]
+[LIST]
+[*]Custom Carrier Label
+[*]Carrier Label Fonts, Size, Colors
+[/LIST]
+
+[B]Clock Customization[/B]
+[LIST]
+[*]Show clock and date toggle
+[*]Auto-hide Clock
+[*]Clock Style
+[*]AM/PM Style
+[*]Show seconds toggle
+[*]Date, its position, style, format, size, font color & style
+[*]Icon Manager
+[*]Statusbar Icons
+[*]Custom Logo
+[*]Signal Icon Switch
+[*]Toast app icon
+[*]Bluetooth battery status
+[/LIST]
+
+[B]Quick Settings[/B]
+[LIST]
+[*]Quick QS Pulldown
+[*]Smart Pulldown
+[*]Vibrate on Touch
+[*]QS footer text
+[*]Customize footer text
+[*]Settings icon toggle
+[*]Running services icon
+[*]User switch icon
+[*]Edit icon toggle
+[*]QS Tint toggle
+[*]Header Images & toggle
+[*]QS Blur
+[*]Background opacity
+[*]QS Layout Customization
+[*]QS tile Animations
+[*]Brightness Slider Positions and customization
+[/LIST]
+
+[B]Traffic Indicators[/B]
+[LIST]
+[*]Traffic Indicator Placement
+[*]Activity Layout
+[*]Net Type Activity
+[*]Net font size customization
+[*]Show/Hide arrows toggle
+[*]Net activity auto-hide threshold
+[/LIST]
+
+[B]Ticker[/B]
+[LIST]
+[*]Ticker toggle
+[*]Ticker Animation
+[*]Ticker Duration
+[/LIST]
+
+[B]Hardware[/B]
+[LIST]
+[*]Buttons
+[*]Kill app button
+[*]Screen off power button torch
+[*]Volume Panel Customization
+[*]Music Control
+[*]Volume rocker wake
+[*]Reorient
+[*]Volume rocker wake
+[*]Volume key cursor control
+[/LIST]
+
+[B]Navigation[/B]
+[LIST]
+[*]On-Screen nav bar
+[*]System Navigation
+[*]Full Screen gestures
+[*]Extended swipe action
+[*]Left/Right Swipe Action
+[/LIST]
+
+[B]Power Menu[/B]
+[LIST]
+[*]Power menu animation
+[*]Restart toggle
+[*]Advanced Restart Toggle
+[*]Lockdown toggle
+[*]Screenshot toggle
+[*]Lockscreen visibility
+[/LIST]
+
+[B]Display[/B]
+[LIST]
+[*]Ambient Display
+[*]Always on
+[*]Custom Options
+[*]Batter level on bottom
+[*]Always on when charging
+[*]New notifications toggle
+[*]Lift to check phone
+[*]Hand wave pulse
+[*]Pocket notifications on removal
+[*]Brightness options on Ambient
+[*]Ambient wake gestures
+[*]Ambient music ticker
+[*]Night Light
+[*]Adaptive Brightness
+[*]Styles and wallpapers
+[*]Screen Attention
+[*]Display Colors
+[*]Screen Savers
+[*]Screen rotations
+[*]D2w
+[*]Wake on plug
+[*]Game driver preferences
+[/LIST]
+[/CODE][/HIDE][/CENTER]
+
+
+[CENTER][IMG]https://i.postimg.cc/L6Kgx2FG/instruct.jpg[/IMG][/CENTER]
+[CENTER]1. First Important Step is to Backup (though depends on you if you wanna be safe or no :P)
+2. Download Corvus Latest ROM Zip
+3. Flash ROM Zip & Vendor (if applicable according to your device manual :P)
+4. Flash any add-ons if you want to like Gapps, Magisk, Etc.
+5. Reboot & enjoy![/CENTER]
+
+
+[CENTER][IMG]https://i.postimg.cc/rpLYLgYQ/download.jpg[/IMG][/CENTER]
+[CENTER][URL="http://enteryourdownloadlink.com"][B]Corvus OS v3.0[/B][/URL][/CENTER]
+
+
+[CENTER][IMG]https://i.postimg.cc/BnBLpckd/faq.jpg[/IMG][/CENTER]
+[CENTER][HIDE][CODE]1. Corvus OS is based on?
+Ans. Its based on AOSP
+2. Do we need to flash Gapps?
+Ans. Yes Corvus OS does not come with prebuilt gapps.
+3. When will be the next update! Any ETAs?
+Ans. There will be regular updates as and when the team is ready to push a new update. Kindly do not ask for ETAs.
+4. I need this feature/ I found some bugs!
+Ans. Firstly if u find any bug then please check with your add-ons like magisk module, zips, etc u flashed and whether its related or no. Though if your sure that its from rom side then kindly grab a [URL="https://telegra.ph/Logcats-are-important-03-01"]Logcat[/URL] and report us [URL="https://t.me/corvussupport"]Here[/URL]
+Secondly for feature request yes u can request them on the above link.[/CODE][/HIDE][/CENTER]
+
+
+[CENTER][IMG]https://i.postimg.cc/5N3QqSZD/team.jpg[/IMG][/CENTER]
+[CENTER][B]Genkzsz11[/B] - Founder/Lead Developer
+[B]Ritzz[/B] - Lead Developer
+[B]Ramadhanr124[/B] - Lead Developer
+[B]Rodolphe06[/B] - UI/UX Designer[/CENTER]
+
+
+[CENTER][IMG]https://i.postimg.cc/66MMjCJ4/credit.jpg[/IMG][/CENTER]
+[CENTER]Dirty Unicorns especially @AlexCruz
+AOSP
+LineageOS
+MSM Xtended
+Havoc OS
+Evolution X
+AOSiP
+And all the other devs/ROMs[/CENTER]
+
+
+[B]You can find our all sources down here:-[/B]
+[URL="https://github.com/Corvus-ROM"]Github[/URL]
+[URL="https://github.com/corvus-devices"]Devices[/URL]
+[URL="https://t.me/corvussupport"]Telegram Group[/URL]
