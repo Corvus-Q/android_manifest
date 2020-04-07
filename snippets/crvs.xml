@@ -146,5 +146,6 @@
   <project path="vendor/themes" name="android_vendor_themes" remote="rex" />
   <project path="vendor/du" name="android_vendor_du" remote="rex" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="rex" />
+  <project path="vendor/pixelgapps" name="Genkzsz11/vendor_pixelgapps" remote="gitlab" revision="10" clone-depth="1" />
 
 </manifest>
