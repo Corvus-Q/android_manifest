@@ -49,7 +49,6 @@
   <project path="external/zlib" name="android_external_zlib" remote="corvus" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="corvus" />
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="corvus" />
-  <project path="external/motorola/faceunlock" name="PixelExperience/external_motorola_faceunlock" remote="gh" revision="ten" />
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="corvus" />
 
   <!-- Frameworks -->
