@@ -111,7 +111,7 @@
   <!-- Prebuilts -->
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="corvus" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="corvus"  clone-depth="1" />
-  <project path="prebuilts/build-tools" name="DirtyUnicorns/android_prebuilts_build-tools" remote="gh" revision="q10x" />
+  <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="corvus" />
 
   <!-- Packages -->
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="corvus" />
