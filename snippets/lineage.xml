@@ -5,8 +5,6 @@
            fetch="https://github.com/LineageOS"
            revision="lineage-17.1" />
 
-  <project path="platform_testing" name="android_platform_testing" remote="lineage" />
-
   <!-- External -->
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="lineage" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="lineage" />
@@ -17,7 +15,6 @@
   <project path="external/libcxx" name="android_external_libcxx" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" />
-  <project path="external/libhevc" name="android_external_libhevc" remote="lineage" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
   <project path="external/ppp" name="android_external_ppp" remote="lineage" />
@@ -48,8 +45,6 @@
 
   <!-- System -->
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
-  <project path="system/hardware/interfaces" name="android_system_hardware_interfaces" remote="lineage" />
-  <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
   <project path="system/bpf" name="android_system_bpf" remote="lineage" />
 
   <!-- Vendor -->
