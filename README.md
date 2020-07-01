@@ -50,7 +50,7 @@ Firstly register at https://review.corvusrom.xyz/
 Open a terminal and generate the ssh keys
 ```bash
 git config --global review.corvusrom.xyz.username <username you registered with>
-git config --global review.corvusrom.xyz.username <your email you registered with>
+git config --global review.corvusrom.xyz.email <your email you registered with>
 ssh-keygen -t rsa -C "your@email.com"
 ```
 After genrating the ssh key go to home/root "~/.ssh" and open "id_rsa.pub" and copy the whole key and paste it in our Gerrit settings (icon in the top right corner next to username) "SSH Keys" section on the left-hand side and then on "ADD NEW SSH KEY" and save it.
