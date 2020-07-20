@@ -44,6 +44,7 @@
   <project path="external/tinycompress" name="android_external_tinycompress" remote="corvus" />
   <project path="external/selinux" name="android_external_selinux" remote="corvus" />
   <project path="external/skia" name="android_external_skia" remote="corvus" />
+  <project path="external/sqlite" name="android_external_sqlite" remote="corvus" />
   <project path="external/jemalloc_new" name="android_external_jemalloc-new" remote="corvus" />
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="corvus" />
   <project path="external/libhevc" name="android_external_libhevc" remote="corvus" />
