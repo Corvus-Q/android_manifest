@@ -157,6 +157,7 @@
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="android_vendor_qcom_opensource_bluetooth_ext" remote="corvus" />
   <project path="vendor/qcom/opensource/commonsys/system/bt" name="android_vendor_qcom_opensource_system_bt" remote="corvus" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="corvus" />
+  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="corvus" revision="10" />
   <project path="vendor/themes" name="android_vendor_themes" remote="corvus" />
   <project path="vendor/du" name="android_vendor_du" remote="corvus" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="corvus" />
