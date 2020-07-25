@@ -11,6 +11,11 @@
 repo init -u https://github.com/Corvus-ROM/android_manifest.git -b 10
 ```
 
+# Or Initialize Shallow Clone #
+```bash
+repo init --depth=1 -u https://github.com/Corvus-ROM/android_manifest.git -b 10
+```
+
 # Syncing Repository # 
 ```bash
 repo sync -j$(nproc --all) --force-sync --no-tags --no-clone-bundle
