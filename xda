@@ -217,7 +217,7 @@
 [CENTER][HIDE][CODE]1. Corvus OS is based on?
 Ans. Its based on AOSP
 2. Do we need to flash Gapps?
-Ans. Yes Corvus OS does not come with prebuilt gapps.
+Ans. Depends on your device variant. If your official device support has Vanilla version then you have to flash Gapps according to your choice.
 3. When will be the next update! Any ETAs?
 Ans. There will be regular updates as and when the team is ready to push a new update. Kindly do not ask for ETAs.
 4. I need this feature/ I found some bugs!
@@ -226,10 +226,12 @@ Secondly for feature request yes u can request them on the above link.[/CODE][/H
 
 
 [CENTER][IMG]https://i.postimg.cc/5N3QqSZD/team.jpg[/IMG][/CENTER]
-[CENTER][B]Genkzsz11[/B] - Founder/Lead Developer
-[B]Ritzz[/B] - Lead Developer
-[B]Ramadhanr124[/B] - Lead Developer
-[B]Rodolphe06[/B] - UI/UX Designer[/CENTER]
+[B]Ritzz[/B] - Lead Developer/Maintainer
+[B]Saikiran[/B] - Lead Developer/Maintainer
+[B]Deadmanxxd[/B] - UI/UX Designer/Maintainer
+[B]TaranHora[/B] - Lead Developer/Maintainer
+[B]Reignz[/B] - Developer
+[B]Jughead[/B] - Project Manager/Contributor
 
 
 [CENTER][IMG]https://i.postimg.cc/66MMjCJ4/credit.jpg[/IMG][/CENTER]
@@ -246,5 +248,5 @@ And all the other devs/ROMs[/CENTER]
 [B]You can find our all sources down here:-[/B]
 [URL="https://enteryourkernelsource"]Kernel Source[/URL]
 [URL="https://github.com/Corvus-ROM"]Github[/URL]
-[URL="https://github.com/corvus-devices"]Devices[/URL]
-[URL="https://t.me/corvussupport"]Telegram Group[/URL]
+[URL="https://github.com/CorvusROM-devices"]Devices[/URL]
+[URL="https://t.me/CorvusCommunityOfficial"]Telegram Group[/URL]
