@@ -1,6 +1,6 @@
 ### Corvus ROM ###
 
-![CorvusROM](https://raw.githubusercontent.com/Rafiester/Public_Stuff/master/corvus_home.png)
+![CorvusROM](https://raw.githubusercontent.com/Astile97/extras/master/corvus/cover.PNG)
 <p align="center">
 
 [![Sourceforge](https://img.shields.io/sourceforge/dm/corvus-os?color=1d91f0&label=RavenLair%20downloads&style=for-the-badge&labelColor=121217&logo=github)](https://corvus-rom.github.io/)
