@@ -33,13 +33,13 @@ lunch du_device-userdebug
 make corvus
 ```
 # XDA Template
-[![XDA-Template](https://raw.githubusercontent.com/Rafiester/Public_Stuff/master/XDADevelopers_button.png)](https://raw.githubusercontent.com/Corvus-ROM/android_manifest/10/xda)
+[![XDA-Template](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/XDADevelopers_button.png)](https://raw.githubusercontent.com/Corvus-ROM/android_manifest/10/xda)
 
 # Maintainership form
-[![Form](https://raw.githubusercontent.com/Rafiester/Public_Stuff/master/Submission_button.png)](https://docs.google.com/forms/d/e/1FAIpQLSeOEzQXfNnPehPQRXxmt3L5FYc5neOhEE3m6ZW_xbIuuQ-dCg/viewform?usp=sf_link)
+[![Form](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/Submission_button.png)](https://docs.google.com/forms/d/e/1FAIpQLSeOEzQXfNnPehPQRXxmt3L5FYc5neOhEE3m6ZW_xbIuuQ-dCg/viewform?usp=sf_link)
 
 # Telegram Support 
-[![Telegram](https://raw.githubusercontent.com/Rafiester/Public_Stuff/master/Telegram_button.png)](https://t.me/corvussupport)
+[![Telegram](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/Telegram_button.png)](https://t.me/corvussupport)
 
  Credits:
  =======
