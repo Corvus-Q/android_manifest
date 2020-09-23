@@ -8,12 +8,12 @@
 
 # Initialize Local Repository #
 ```bash
-repo init -u https://github.com/Corvus-ROM/android_manifest.git -b 10
+repo init -u https://github.com/Corvus-ROM/android_manifest.git -b 11
 ```
 
 # Or Initialize Shallow Clone #
 ```bash
-repo init --depth=1 -u https://github.com/Corvus-ROM/android_manifest.git -b 10
+repo init --depth=1 -u https://github.com/Corvus-ROM/android_manifest.git -b 11
 ```
 
 # Syncing Repository # 
@@ -27,19 +27,19 @@ repo sync -j$(nproc --all) --force-sync --no-tags --no-clone-bundle
 . build/envsetup.sh
 
 # Choose a target
-lunch du_device-userdebug
+lunch corvus_device-userdebug
 
 # Build the ROM
 make corvus
 ```
 # XDA Template
-[![XDA-Template](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/XDADevelopers_button.png)](https://raw.githubusercontent.com/Corvus-ROM/android_manifest/10/xda)
+[![XDA-Template](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/XDADevelopers_button.png)](https://raw.githubusercontent.com/Corvus-ROM/android_manifest/11/xda)
 
 # Maintainership form
 [![Form](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/Submission_button.png)](https://docs.google.com/forms/d/e/1FAIpQLSeOEzQXfNnPehPQRXxmt3L5FYc5neOhEE3m6ZW_xbIuuQ-dCg/viewform?usp=sf_link)
 
 # Telegram Support 
-[![Telegram](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/Telegram_button.png)](https://t.me/corvussupport)
+[![Telegram](https://raw.githubusercontent.com/rashedsahaji/RandomStuff/master/Telegram_button.png)](https://t.me/CorvusCommunityOfficial)
 
  Credits:
  =======
@@ -83,7 +83,7 @@ Branch :- i.e The branch you are pushing to
 
 Your final command will look like this:-
 ```bash
-git push ssh://riteshm321@review.corvusrom.com:29418/android_packages_apps_Settings HEAD:refs/for/10
+git push ssh://riteshm321@review.corvusrom.com:29418/CorvusROM/android_packages_apps_Settings HEAD:refs/for/11
 ```
 If you gonna make some extra additions, just repeat the steps (don't start a new patch), but instead of git commit -m use git commit --amend. Gerrit will recognize it as a new patchset. Also DO NOT change the Change-ID.
 
