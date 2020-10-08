@@ -62,6 +62,8 @@
 
   <remove-project name="platform/bionic" />
   <remove-project name="platform/bootable/recovery" />
+  <remove-project name="platform/development" />
+  <remove-project name="platform/art" />
 
   <!-- Build -->
   <remove-project name="platform/build" />
@@ -75,6 +77,10 @@
   <remove-project name="platform/external/google-fonts/barlow" />
   <remove-project name="platform/external/google-fonts/rubik" />
   <remove-project name="platform/external/google-fonts/zilla-slab" />
+  <remove-project name="platform/external/zlib" />
+  <remove-project name="platform/external/libjpeg-turbo" />
+  <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/arm-optimized-routines" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
@@ -90,9 +96,13 @@
   <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/Bluetooth" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
+  <remove-project name="platform/packages/apps/DocumentsUI" /> 
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
+  <remove-project name="platform/packages/providers/DownloadProvider" />
+  <remove-project name="platform/packages/apps/ThemePicker" />
 
   <!-- Prebuilts -->
   <remove-project name="kernel/prebuilts/4.19/arm64" />
@@ -106,6 +116,7 @@
   <remove-project name="platform/prebuilts/go/darwin-x86" />
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <remove-project name="platform/prebuilts/abi-dumps/vndk" />
+  <remove-project name="platform/prebuilts/abi-dumps/ndk" />
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
@@ -123,6 +134,7 @@
   <remove-project name="platform/hardware/qcom/bootctrl" />
   <remove-project name="platform/hardware/qcom/bt" />
   <remove-project name="platform/hardware/qcom/camera" />
+  <remove-project name="platform/hardware/ril" />
 
   <!-- System -->
   <remove-project name="platform/system/netd" />
