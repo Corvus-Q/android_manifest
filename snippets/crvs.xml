@@ -57,8 +57,11 @@
 
   <!-- Device -->
   <project path="device/corvus/sepolicy" name="android_device_corvus_sepolicy" remote="corvus" />
-  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="corvus" revision="11-legacy"/>
+
+  <!-- Sepolicy -->
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="corvus" revision="11-legacy-um"/>
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="corvus" />
+  <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy" remote="corvus" revision="11-vndr"/>
 
   <!-- Hardware -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="corvus" />
@@ -123,7 +126,6 @@
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="corvus" />
   <project path="packages/apps/RavenLair" name="android_packages_apps_RavenLair" remote="corvus" />
 
-
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="corvus" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="corvus" />
@@ -133,5 +135,9 @@
   <project path="vendor/corvus" name="vendor_corvus" remote="corvus" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="corvus" />
   <project path="vendor/qcom/opensource/cryptfs/hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="corvus" />
+  <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="android_vendor_qcom_opensource_bluetooth-commonsys-intf" remote="corvus" />
+  <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="android_vendor_qcom_opensource_bluetooth_ext" remote="corvus" />
+  <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="android_vendor_qcom_opensource_packages_apps_Bluetooth" remote="corvus" />
+  <project path="vendor/qcom/opensource/commonsys/system/bt" name="android_vendor_qcom_opensource_system_bt" remote="corvus" />
 
 </manifest>
