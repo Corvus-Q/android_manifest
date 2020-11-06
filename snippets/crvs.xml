@@ -43,7 +43,6 @@
   <project path="external/zlib" name="android_external_zlib" remote="corvus" />
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="corvus" />
   <project path="external/libpng" name="android_external_libpng" remote="corvus" />
-  <project path="external/json-c" name="android_external_json-c" remote="corvus" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="corvus" />
   <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="corvus" />
 

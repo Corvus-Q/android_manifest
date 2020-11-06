@@ -5,6 +5,9 @@
            fetch="https://github.com/LineageOS"
            revision="lineage-17.1" />
 
+  <!-- External -->
+  <project path="external/json-c" name="android_external_json-c" remote="lineage" revision="lineage-18.0" />
+
   <!-- Hardware -->
   <project path="hardware/qcom-caf/thermal" name="android_hardware_qcom_thermal" remote="lineage" />
   <project path="hardware/qcom-caf/vr" name="android_hardware_qcom_vr" remote="lineage" />
