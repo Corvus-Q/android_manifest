@@ -53,7 +53,7 @@
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="corvus" />
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="corvus" />
   <project path="external/pulse" name="DirtyUnicorns/android_external_pulse" remote="gh" revision="q10x"/>
-  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="corvus" />
+  <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="corvus" />
 
   <!-- Frameworks -->
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="corvus" />
@@ -64,13 +64,13 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="corvus" />
 
   <!-- Device -->
-  <project path="device/du/sepolicy" name="device_du_sepolicy" remote="corvus" />
+  <project path="device/du/sepolicy" name="device_corvus_sepolicy" remote="corvus" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="corvus" revision="10-legacy"/>
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="corvus" />
 
   <!-- Hardware -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="corvus" />
-  <project path="hardware/du/interfaces" name="android_hardware_du_interfaces" remote="corvus" />
+  <project path="hardware/du/interfaces" name="android_hardware_corvus_interfaces" remote="corvus" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="corvus" />
   <project path="hardware/ril" name="android_hardware_ril" remote="corvus" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="corvus" />
@@ -130,7 +130,7 @@
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="corvus" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="corvus" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="corvus" />
-  <project path="packages/apps/DU-Tweaks" name="android_packages_apps_DU-Tweaks" remote="corvus" />
+  <project path="packages/apps/DU-Tweaks" name="android_packages_apps_RavenLair" remote="corvus" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="corvus" />
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="corvus" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="corvus" />
@@ -160,7 +160,7 @@
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="corvus" />
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="corvus" revision="10" />
   <project path="vendor/themes" name="android_vendor_themes" remote="corvus" />
-  <project path="vendor/du" name="android_vendor_du" remote="corvus" />
+  <project path="vendor/du" name="android_vendor_corvus" remote="corvus" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="corvus" />
   <project path="vendor/pixelgapps" name="ritzzz/vendor_pixelgapps" remote="gitlab" revision="10" clone-depth="1" />
 
