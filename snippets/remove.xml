@@ -201,5 +201,7 @@
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/keymaster" />
   <remove-project name="platform/system/hardware/interfaces" />
+  <remove-project name="platform/system/security" />
+
 
 </manifest>

@@ -56,6 +56,7 @@
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/bpf" name="android_system_bpf" remote="lineage" />
   <project path="system/nfc" name="android_system_nfc" remote="lineage" />
+  <project path="system/security" name="android_system_security" remote="lineage" />
 
   <!-- Vendor -->
   <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="lineage" />
