@@ -53,7 +53,7 @@
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="corvus" />
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="corvus" />
   <project path="external/pulse" name="DirtyUnicorns/android_external_pulse" remote="gh" revision="q10x"/>
-  <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="corvus" />
+  <project path="external/motorola/faceunlock" name="ritzzz/android_external_motorola_faceunlock" remote="gitlab" revision="10" clone-depth="1" />
 
   <!-- Frameworks -->
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="corvus" />
