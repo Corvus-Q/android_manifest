@@ -162,6 +162,7 @@
   <project path="vendor/themes" name="android_vendor_themes" remote="corvus" />
   <project path="vendor/du" name="android_vendor_corvus" remote="corvus" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="corvus" />
+   <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="android_vendor_qcom_opensource_packages_apps_Bluetooth" remote="corvus" />
   <project path="vendor/pixelgapps" name="ritzzz/vendor_pixelgapps" remote="gitlab" revision="10" clone-depth="1" />
 
 </manifest>
