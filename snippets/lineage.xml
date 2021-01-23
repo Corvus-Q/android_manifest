@@ -21,8 +21,8 @@
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
   <project path="external/ppp" name="android_external_ppp" remote="lineage" />
   <project path="external/aac" name="android_external_aac" remote="lineage" />
-  <project path="external/libexif" name="android_external_libexif" remote="lineage" />  
-   
+  <project path="external/libexif" name="android_external_libexif" remote="lineage" />
+  <project path="frameworks/minikin" name="android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
 
   <!-- Hardware -->
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="lineage" />
