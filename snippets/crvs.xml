@@ -44,7 +44,7 @@
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="corvus" />
   <project path="external/libpng" name="android_external_libpng" remote="corvus" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="corvus" />
-  <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="corvus" />
+  <project path="external/motorola/faceunlock" name="merser2005/external_motorola_faceunlock" remote="gitlab" revision="11" />
 
   <!-- Frameworks -->
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="corvus" />
