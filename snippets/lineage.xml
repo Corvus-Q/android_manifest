@@ -23,6 +23,10 @@
   <project path="external/aac" name="android_external_aac" remote="lineage" />
   <project path="external/libexif" name="android_external_libexif" remote="lineage" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
+  <project path="external/libavc" name="android_external_libavc" remote="lineage" />
+  <project path="external/okhttp" name="android_external_okhttp" remote="lineage" />
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="lineage" />
+
 
   <!-- Hardware -->
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="lineage" />

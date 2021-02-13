@@ -97,6 +97,10 @@
   <remove-project name="platform/external/google-fonts/lato" />
   <remove-project name="platform/external/google-fonts/rubik" />
   <remove-project name="platform/external/google-fonts/zilla-slab" />
+  <remove-project name="platform/external/libavc" />
+  <remove-project name="platform/external/okhttp" />
+  <remove-project name="platform/external/wpa_supplicant_8" />  
+
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
@@ -201,7 +205,5 @@
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/keymaster" />
   <remove-project name="platform/system/hardware/interfaces" />
-  <remove-project name="platform/system/security" />
-
-
+  <remove-project name="platform/system/security" /> 
 </manifest>
