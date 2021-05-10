@@ -153,6 +153,7 @@
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="corvus" />
   <project path="packages/apps/TouchGestures" name="android_packages_apps_TouchGestures" remote="corvus" />
   <project path="packages/apps/Recorder" name="android_packages_apps_Recorder" remote="corvus" />
+  <project path="packages/apps/CorvusWalls" name="android_packages_apps_CorvusWalls" remote="corvus" />
 
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="corvus" />
