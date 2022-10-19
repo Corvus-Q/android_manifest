@@ -9,7 +9,7 @@
            fetch="https://gitlab.com/" />
 		
 <remote name="corvus"
-        fetch="https://github.com/Corvus-ROM/"
+        fetch="https://github.com/Corvus-Q/"
         revision="refs/heads/10" />
 
   <remote  name="device"
@@ -65,7 +65,7 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="corvus" />
 
   <!-- Device -->
-  <project path="device/du/sepolicy" name="device_corvus_sepolicy" remote="corvus" />
+  <project path="device/du/sepolicy" name="android_device_corvus_sepolicy" remote="corvus" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="corvus" revision="10-legacy"/>
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="corvus" />
 
@@ -162,7 +162,7 @@
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="corvus" />
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="corvus" revision="10" />
   <project path="vendor/themes" name="android_vendor_themes" remote="corvus" />
-  <project path="vendor/du" name="android_vendor_corvus" remote="corvus" />
+  <project path="vendor/du" name="vendor_corvus" remote="corvus" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="corvus" />
    <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="android_vendor_qcom_opensource_packages_apps_Bluetooth" remote="corvus" />
   <project path="vendor/pixelgapps" name="ritzzz/vendor_pixelgapps" remote="gitlab" revision="10" clone-depth="1" />
